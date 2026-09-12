@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "maintenance": false,
+  "announcement": {
+    "enabled": true,
+    "title": "AUREX Tunnel",
+    "message": "انضم إلى قناتنا للحصول على آخر السيرفرات",
+    "url": "https://t.me/yourchannel"
+  },
+  "ads": {
+    "enabled": true,
+    "rewardHours": 2,
+    "buttonText": "Watch Ad +2h"
+  },
+  "links": {
+    "telegram": "https://t.me/yourchannel",
+    "whatsapp": "https://wa.me/XXXXXXXXXXX",
+    "website": "https://example.com",
+    "privacy": "https://example.com/privacy"
+  },
+  "update": {
+    "enabled": false,
+    "versionCode": 1,
+    "downloadUrl": ""
+  }
+}
